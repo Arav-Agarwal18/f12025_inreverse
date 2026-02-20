@@ -24,14 +24,9 @@ The analysis uses two primary datasets for the 2025 Formula 1 season:
 
 ## Visualization
 
-The project includes a line plot visualizing the reverse cumulative points for the selected drivers across all tracks. Each driver's cumulative score is plotted with a distinct color:
+The project includes a line plot visualizing the reverse cumulative points for the selected drivers across all tracks. Each driver's cumulative score is plotted with a distinct color, as can be seen below:
 
-*   Lando Norris: Orange
-*   Oscar Piastri: Yellow
-*   Max Verstappen: Blue
-*   George Russell: Cyan
-
-The plot is titled 'F1 2025 in Reverse' with 'Races' on the x-axis and 'Points' on the y-axis, providing a clear representation of the standings' evolution.
+![Visualization](F1-Reverse-Output.png)
 
 ## Key Findings
 
